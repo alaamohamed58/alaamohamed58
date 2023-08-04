@@ -17,14 +17,13 @@ Hello! I'm Alaa Mohamed, a passionate MERN Stack Developer with a love for craft
 Currently, I'm focusing on enhancing my skills in:
 
 - Frontend technologies: Advanced React patterns, Redux best practices, and responsive design.
-- Backend technologies: Node.js optimizations and building scalable APIs.
-- DevOps: Exploring Docker for containerization and CI/CD pipelines.
+- Backend technologies: Node.js optimizations and building scalable APIs..
 
 If you're passionate about any of these areas, let's connect and learn together!
 
 ## Contact Me
 
-You can reach me via email at alaa.dev@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/alaamohamed).
+You can reach me via email at alaamohamed58999@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/alaamohamed).
 
 Looking forward to connecting with fellow developers and enthusiasts!
 
