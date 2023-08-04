@@ -23,7 +23,7 @@ If you're passionate about any of these areas, let's connect and learn together!
 
 ## Contact Me
 
-You can reach me via email at alaamohamed58999@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/alaamohamed](https://www.linkedin.com/in/alaa-mohamed-245804206/)).
+You can reach me via email at alaamohamed58999@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/alaamohamed](https://www.linkedin.com/in/alaa-mohamed-245804206/).
 
 Looking forward to connecting with fellow developers and enthusiasts!
 
