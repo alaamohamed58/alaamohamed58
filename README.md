@@ -35,5 +35,7 @@ Looking forward to connecting with fellow developers and enthusiasts!
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nodejs,mongodb,github,firebase,vite,vscode" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+       
   </a>
 </p>
