@@ -2,7 +2,7 @@
 
 Hello! I'm Alaa Mohamed, a passionate MERN Stack Developer with a love for crafting efficient and user-friendly web applications.  I'm dedicated to delivering high-quality software.
 
-- 🔭 Currently, I'm working at Mountain Constructions Company, where I'm involved in developing exciting projects that push the boundaries of technology.
+- 🔭 Currently, I'm working at Mountain Constructions Company, where I'm involved in developing  projects that push the boundaries of technology.
 - 🌱 I'm always learning and staying up-to-date with the latest trends and advancements in web development to refine my skills.
 - ⚡ Fun Fact: I'm an avid hiker and nature lover, so when I'm not coding, you can find me exploring the great outdoors and enjoying the beauty of the mountains.
 
@@ -17,7 +17,7 @@ Hello! I'm Alaa Mohamed, a passionate MERN Stack Developer with a love for craft
 Currently, I'm focusing on enhancing my skills in:
 
 - Frontend technologies: Advanced React patterns, Redux best practices, and responsive design.
-- Backend technologies: Node.js optimizations and building scalable APIs..
+- Backend technologies: Node.js, express js and mongodb optimizations and building scalable APIs..
 
 If you're passionate about any of these areas, let's connect and learn together!
 
