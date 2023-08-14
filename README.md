@@ -34,6 +34,6 @@ Looking forward to connecting with fellow developers and enthusiasts!
         <br/>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nodejs,mongodb,github,firebase,vite,vscode" />
   </a>
 </p>
