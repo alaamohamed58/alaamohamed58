@@ -1,9 +1,6 @@
 ## About Me
 
-Hello! I'm Alaa Mohamed, a passionate MERN Stack Developer with a love for crafting efficient and user-friendly web applications.  I'm dedicated to delivering high-quality software.
-
-- 🌱 I'm always learning and staying up-to-date with the latest trends and advancements in web development to refine my skills.
-- ⚡ Fun Fact: I'm an avid hiker and nature lover, so when I'm not coding, you can find me exploring the great outdoors and enjoying the beauty of the mountains.
+I'm Alaa Mohamed, a passionate Backend Developer.  I'm dedicated to delivering high-quality software.
 
 ## Collaboration and Help
 
